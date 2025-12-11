@@ -1,6 +1,8 @@
 # ai_news
 ai 分析 新闻
+
 通过dockerrun 里面的命令运行，compose文件自行在里面加变量
+
 本项目基于github的TrendRadar 做了修改。添加了如下功能
 
 1.推送新闻前通过ai 判断是否属于我需要的信息
